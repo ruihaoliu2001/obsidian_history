@@ -641,3 +641,5 @@ This is a bad PC. the surface is not flat and when you approach the chip surface
 
 PC wavefront要没过flake多一点，这样1. 如果提起时strain很大不会一开始就伤害到flake of interest 2. 可以通过其他flake被提起的情况来判断目标flake是否大概率被提起
 
+### today
+test github
